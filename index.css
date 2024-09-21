@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.main{
+    background-image: url("https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 600;
+    position: sticky;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+.main1{
+    position:sticky;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    text-decoration-line: none;
+}
+p.case{
+    justify-content: space-between;
+    color: black;
+    text-align: center;
+}
+p.case1{
+    color: black;
+}
+p.new{
+    text-align: center;
+}
+p{
+    color: white;
+}
+
+p.new2{
+    color: white;
+}
+.bg1{
+    background-image: url("https://img.freepik.com/free-vector/realistic-luxury-background_23-2149354608.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2{
+    background-image: url("https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg");
+    height:400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: white;
+}
+p.new1{
+    color: black;
+    text-align: center;
+}
+p.new3{
+    color: white;
+    text-align: center;
+}
+.bg4{
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149146012.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg5{
+    background-image: url("https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg?size=626&ext=jpg&ga=GA1.1.1869992963.1726218038&semt=ais_hybrid");
+}
+.bg6{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Enmlb5AUez2AP2fZVUL5dfkema9naacmag&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p.new7{
+    color: yellow;
+}
+p.new4{
+    color: white;
+}
+p.new5{
+    color: black;
+    text-align: center;
+}
+p.new6{
+    color: white;
+}
+p.new8{
+    text-align: center;
+}
+p.new8{
+    color: white;
+    text-align: center;
+}
+img:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 15px 30px rgb(0,0,0,0.4);
+    filter: brightness(1.00);
+}
+
