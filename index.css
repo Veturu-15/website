@@ -12,13 +12,16 @@ body{
     background-attachment: fixed;
     background-position: center;
 }
-.main1{
+.main1 {
     position:sticky;
     width: 100%;
     top: 0px;
     left: 0px;
     position: fixed;
     text-decoration-line: none;
+    text-align: center ;
+    display: flex;
+    justify-content: center;
 }
 p.case{
     justify-content: space-between;
@@ -64,14 +67,20 @@ p.new3{
     background-image: url("https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149146012.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: aliceblue;
+    text-align: center;
 }
 .bg5{
     background-image: url("https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg?size=626&ext=jpg&ga=GA1.1.1869992963.1726218038&semt=ais_hybrid");
+    color: aliceblue;
+    text-align: center;
 }
 .bg6{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Enmlb5AUez2AP2fZVUL5dfkema9naacmag&s");
     background-repeat: no-repeat;
     background-size: cover;
+    color: aliceblue;
+    text-align: center;
 }
 p.new7{
     color: yellow;
@@ -97,5 +106,39 @@ img:hover{
     transform: scale(1.1);
     box-shadow: 0px 15px 30px rgb(0,0,0,0.4);
     filter: brightness(1.00);
+}
+.navbar{
+    background-color: black;
+    width: 100%;
+}
+#food{
+padding-top:20px;
+}
+.raw{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bg{
+    color:aliceblue ;
+text-align: center;
+}
+.bg7{
+    color: aliceblue;
+    text-align: center;
+}
+.bg3{
+    color: aliceblue;
+    text-align: center;
+}
+#raw1{
+    padding-left: 50px;
+}
+p.new10{
+    text-align: center;
 }
 
